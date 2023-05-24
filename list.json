@@ -1,5 +1,9 @@
 {
   "3597904035": {
-    "tag": "SONICWARE OWNER"
+    "tag": "SONICWARE OWNER",
+    "pos": 4,
+    "r": 255,
+    "g": 114,
+    "b": 118
   }
 }
